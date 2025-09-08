@@ -62,5 +62,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="830" height="465" alt="Screenshot 2025-09-05 195745" src="https://github.com/user-attachments/assets/7ea86a93-6845-4255-88cf-afa99d7e7170" />
 ## Output
+<img width="706" height="630" alt="Screenshot 2025-09-05 195736" src="https://github.com/user-attachments/assets/6e064d48-4c7f-46b8-8103-75a6997c14d6" />
+
+<img width="698" height="624" alt="Screenshot 2025-09-05 195835" src="https://github.com/user-attachments/assets/55346ee9-1dc2-4a3c-bfc0-07d4aca86482" />
+
+<img width="694" height="623" alt="Screenshot 2025-09-05 195945" src="https://github.com/user-attachments/assets/1637dcab-988e-4a8e-ad78-ffa1d9e79f44" />
 ## Result
+thus the Simulation of half-wave rectifier controlled by a thyristor in MATLAB Simulink was studied and verified
